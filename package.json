@@ -1,0 +1,21 @@
+{
+  "name": "paytmpgchecksum",
+  "description": "This is for paytm checksum creation and verification in node",
+  "version": "2.0.0",
+  "author": "Paytm Integration Dev",
+  "main": "PaytmChecksum.js",
+  "keywords": [
+    "Paytm",
+    "Checksum",
+    "Paytm Node",
+    "Paytm checksum",
+    "Paytm signature",
+    "Signature",
+    "Paytm payment"
+  ],
+  "homepage": "https://developer.paytm.com/docs/checksum/#node",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paytm/PaytmPg_Node_Checksum"
+  }
+}
